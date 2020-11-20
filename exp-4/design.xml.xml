@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="design.xsl"?>
+<design>
+<des>
+<Design>Hospitality Designs</Design>
+<Types>Luxury Resorts, Boutique Hotels, Vacation Villas, Restaurants and Bars</Types>
+<Price>$130.00 - $615.00</Price>
+</des>
+<des>
+<Design>Residential Designs</Design>
+<Types>Cape Cod, Colonial, Contemporary, Dutch Colonial</Types>
+<Price>$1040.00 - $1478.00</Price>
+</des>
+<des>
+<Design>Office Designs</Design>
+<Types>Cubicle Layout, Low Partition layout, Team-Based Layout, Open-Plan Layout</Types>
+<Price>$3933.00 - $4789.00</Price>
+</des>
+<des>
+<Design>Commercial Designs</Design>
+<Types>F and B Interior Design, Reinstatement of Commercial Unit, Retail Interior Design</Types>
+<Price>$5879.00 - $9785.00</Price>
+</des>
+</design>
